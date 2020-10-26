@@ -1,0 +1,13 @@
+env: local
+auth:
+    local:
+        neo4j-user: neo4j
+        neo4j-host: localhost
+        neo4j-pass: neo4j-password
+        mongo-user: mongo-username
+        mongo-pass: mongo-password
+        mongo-host: 127.0.0.1
+        mongo-db: mongo-database
+        mongo-db-auth: mongo-database-auth
+        dimension-username: dimension-username
+        dimension-password: dimension-password
